@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @winndss
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: windysulistiawati77@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/windys/
 - 😄 Pronouns: She/Her
 
 <!---
